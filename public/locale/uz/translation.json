@@ -1,0 +1,512 @@
+{
+  "firstHeader": {
+    "saleMessage": "Barcha cho'milish kiyimlari uchun tezkor yetkazib berish - 50% chegirma!",
+    "shopNow": "Xarid qilish"
+  },
+
+  "languageSelector": {
+    "o'zbek": "O'zbek",
+    "english": "Ingliz",
+    "russian": "Rus",
+    "arabic": "Arab",
+    "french": "Fransuz",
+    "japanese": "Yapon",
+    "hungarian": "Venger",
+    "hindi": "Hind"
+  },
+
+  "nav": {
+    "home": "Bosh sahifa",
+    "contact": "Bog'lanish",
+    "about": "Haqida",
+    "profile": "Profil",
+    "signUp": "Ro'yxatdan o'ting"
+  },
+
+  "navTools": {
+    "favorite": "Sevimlilar",
+    "cart": "Savatcha",
+    "userMenu": "Foydalanuvchi menyusi"
+  },
+
+  "homeSlider": {
+    "title": "Voucherbilan 30% gacha chegirma"
+  },
+
+  "products": {
+    "PS5Gamepad": {
+      "shortName": "PS5 Gamepad",
+      "name": "PS5 Gamepad",
+      "category": "O'yinlar",
+      "description": "Yuksek sifatli PlayStation 5 nazorati birligi tuzi bilan qatiyin qattiq topshirilishi va rishtonik qilish qilmay tuzilgan yopishmay soddalashtirish uchun. Bosqincha tanlash."
+    },
+    "AK-9000Keyboard": {
+      "shortName": "AK-9000 Klaviatura",
+      "name": "AK-900 Klaviatura",
+      "category": "O'yinlar",
+      "description": "AK-900 Klaviatura bilan o'yinlarni ko'paytiring. Aniq va uning hossiz, bu klaviatura baland islah va tactile qaytarish bilan ta'minlanmagan. Uning stil sozlamasi va o'zgartirish mumkin bo'lgan RGB yorug'lik hammasini o'ziga xos qiladi. Siz o'yin sharhlari ko'paytirgani yoki e'lonlarni yozib qoldirganingizdan qat'iy nazar, AK-900 har bir boshda bajarilish bilan uning yuqori faoliyatlarini ta'minlaydi."
+    },
+    "LCDMonitor": {
+      "shortName": "LCD Monitor",
+      "name": "IPS LCD O'yin Monitori",
+      "category": "O'yinlar",
+      "description": "O'yin dunyosiga IPS LCD O'yin Monitori bilan zamonaviy. Qizil ranglar va ajoyib o'yin o'ynash o'rinlari bilan, bu monitor o'yin tajribasini qattiq o'stiradi. Uning yuqori yangilanish tezligi va past kirish kechishi, siz hech qanday ramizni unutmasligingiz mumkin. Siz dushmanlarga kurash yoki keng obrazlarini tashqi bilan tanishib ko'ring va IPS LCD O'yin Monitori har bir tafsilni jonli ranglar va toza aniqlik bilan hayotga keltiradi."
+    },
+    "S-SeriesChair": {
+      "shortName": "S-Series Kursi",
+      "name": "S-Series Qulay Kursi",
+      "category": "Mebel",
+      "description": "S-Series Qulay Kursi bilan hech qachon oldinga his qilish. Sifatli qoplamasi va ergonomik dizayni bilan, bu kursi uzun o'yin sessiyalarida yoki ish soatlari davomida istisno tan olishni ta'minlaydi. Uning yashil dizayni va zamonaviy estetikasi har qanday joyga xush keladi. Noqulaylikni va qulaylikni uch qilish uchun S-Series Qulay Kursi bilan jamlanish."
+    },
+    "NorthCoat": {
+      "shortName": "Shimlar",
+      "name": "Shimlar",
+      "category": "Kiyimlar",
+      "description": "Shimlar bilan issiq qolin va tarzli bo'ling. Premium materiallar va mutaxassislik bilan qilingan, bu shimlar, ushbu zamonaviy modellarni xalqaro e'tkazib berishni o'z ichiga oladi. Uni ayollarga, erkaklarga va bolalarga borib olishingiz mumkin. Shimlar e'tiroz va oddiy rangi, har bir fasl uchun garderob qimor, mekka qiladi."
+    },
+    "GucciBag": {
+      "shortName": "Gucci Xafta",
+      "name": "Gucci Xafta sumkasi",
+      "category": "Yozuv sumka",
+      "description": "Gucci Xafta sumkasida matbu materiallar va ikonik turkiyash tahriridagi oddiylik va uslubda qilingan. Uning katta ichki joyi va bir nechta kontseptsiyalari bor, bu sizning barcha zaruratlaringizni tartib bilan saqlash uchun ideal. Siz birinchi sinfda sayohat qilsangiz yoki gymnii joriy qilsangiz, Gucci Xafta sumkasi, noyoblik va funktsionalizmning eng yaxshi misoli."
+    },
+    "CPUCooler": {
+      "shortName": "CPU Cooler",
+      "name": "RGB Likuid CPU Cooler",
+      "category": "O'yinlar",
+      "description": "RGB Likuid CPU Cooler bilan CPU-ni sovuq va xizmat sovuq qilish. Ishlab chiqarish texnologiyasi va moslashuvchan RGB yorug'lik bilan ta'minlanadigan, bu sovuqchi faqatgina haroratni pastda tutadi, balki sizning qurilmanizga ham zarba beradi. Uning shik vazifasi va yuqori amaliyotlari uning har bir o'yin rigi yoki ish stantsiyasi uchun zaruriy."
+    },
+    "BookShelf": {
+      "shortName": "Kitob qo'yilishi",
+      "name": "Kitob qo'yilishi",
+      "category": "Mebel",
+      "description": "Kitoblaringizni modda tartibga soling. Tug'ri materiallardan qilingan va kichik dizaynli, bu kitob qo'yilishi estetikani xavfsizligi bilan eng maksimal darajada ko'rsatadi. Siz sevimli romanlaringizni ko'rsatishingiz yoki nozil mahsulotlarni ko'rsatishingiz, unda minimalist dizayn har bir dekor bilan moslashadi. Takrorlashdan va noziklikdan so'ng, kichik kitob qo'yilish bilan xavfsizlikdan so'ng, sozlash."
+    },
+    "DogFood": {
+      "shortName": "It ovqat",
+      "name": "Turi Dry Dog Food",
+      "category": "Hayvonlar",
+      "description": "Breed Dry Dog Food bilan sevimli do'stingizga eng yaxshi muloqot qiling. Premium tarkibiy moddalar va zarur moddalar bilan tuzilgan, bu it ovqati barcha yoshdagi va turdagi itlarga to'liq va mos ravishda oziq-ovqat ta'minlashadi. Uning mashhur ta'mi va qarazlarni suzuvchilik, bu ovqat sizning itingizni yana boshqarishga tegishli."
+    },
+    "CannonCamera": {
+      "shortName": "Kanon kamera",
+      "name": "KANON EOS DSLR Kamera",
+      "category": "Kamera",
+      "description": "KANON EOS DSLR Kamera bilan hayotning ajoyib voqeliklarini yuklashing. Siz yolg'izchi fotografchi yoki hobi entuziasti bo'lsangiz, bu kamera hayajonli tasvir sifatini va amaliyoti ta'minlaydi. Uning muvozanatli xususiyatlari va intuitiv boshqaruvlari bilan, siz ijodiylikni ochib chiqarishingiz va o'zingizning fotosuratlarini keyingi darajaga olib borishingiz mumkin."
+    },
+    "FHDLaptop": {
+      "shortName": "FHD Noutbuk",
+      "name": "ASUS FHD O'yin Noutbuk",
+      "category": "Kompyuterlar",
+      "description": "ASUS FHD O'yin Noutbuk bilan namunali o'yinlar performansini tajribang. Qimmatbaho materiallar va noma'lum bilim donasi bilan, bu noutbuk hamkorlik qiladi xarakterlardagi eng talabgor o'yinlarga ham darhol. Uning samimiy dizayni va yengil og'irliklar qilingani, yo'lga chiqish uchun mukammal hamroqdir. Lagani to'xtatib, ASUS FHD O'yin Noutbuk bilan xavfsiz o'yin ta'mi."
+    },
+    "Curology": {
+      "shortName": "Curology",
+      "name": "Curology Mahsulot to'plami",
+      "category": "Oyoq",
+      "description": "Curology Mahsulot to'plami bilan dermatologlar tomonidan shakllangan va sizning ayrim nima haqida talablaringizga moslashtirilgan, bu to'plam ochiq, jiljilroq to'qimalar elishi kerak. Pochta ocheredagi doimo o'zgartirilgan, bu mahsulotlar sizga toza, murakkab nafaqatni yo'qotishga yordam beradi."
+    },
+    "ElectricCar": {
+      "shortName": "Elektr mashina",
+      "name": "Bolalar Elektr Mashinasi",
+      "category": "O'yinlar",
+      "description": "Bolalar Elektr Mashinasi bilan bolangiz hayol qurishing. Mumkin bo'lgan hamkorlar va sodda boshqarish, har bir hayajonni katta bo'lishini ta'minlaydigan realistik tafsilotlar va yo'riqnoma. Ular mahalliy piyoda yoki o'rmonni o'zgartirish, bolalar elektr mashinasi har bir yoshdagi bolalarga soatlar o'zbekiston tushunarli."
+    },
+    "SoccerCleats": {
+      "shortName": "Futbol Dastgohlari",
+      "name": "Jr. Zoom Soccer Cleats",
+      "category": "Kiyimlar",
+      "description": "Jr. Zoom Soccer Cleats bilan o'yinni keyingi darajaga olib borish. Tezlik va jonli qilish uchun ishlab chiqarilgan, bu dastgohlar mayda maydalov va ishora uchun ishlatiladi. Ular yengil va qabul qiluvchi kishlovni o'z ichiga oladi. Sliplarni va shtangalarni olvorsangiz, Jr. Zoom Soccer Cleats bilan tezlatib yengil darajasiga qarab, ko'rib chiqing."
+    },
+    "GP11Gamepad": {
+      "shortName": "GP11 Gamepad",
+      "name": "GP11 Shooter USB Gamepad",
+      "category": "O'yinlar",
+      "description": "GP11 Shooter USB Gamepad bilan raqiblarga hukmronlik qiling. Aniq va qulaylik, bu o'yin joylari har bir bosqich va bir necha chiroyli rivojlanishlar bilan ta'minlanadi. Dushmanlarga kurash yoki vaqtda ishlashga qaraganda, uning ergonomik dizayni va javobgar boshqaruvlar, sizni yuqori darajaga ko'tarish uchun zarur bo'lgan maslahatlar. So'zlari yo'qotishdan va yuqori boshqaruvni o'rganganingizdan keyin, GP11 Shooter USB Gamepad bilan yuqori darajali va jilvador o'yin ta'mi."
+    },
+    "SatinJacket": {
+      "shortName": "Satin Jacket",
+      "name": "Tolqin Satin Jacket",
+      "category": "Kiyimlar",
+      "description": "Tolqin Satin Jacket bilan o'zidan chiqaring. Qimmatbaho satin materiallardan tuzilgan va quilted dizayni, bu jaketa uslub va funktsionallikni birgalikda birlashtiradi. Siz nazoratni har bir qarshilikda yoki shaharda qayta ishlatingiz, uni ro'yhatdan o'tkazish uchun barcha moslashish mumkin. Sifatli chet elbisega nozik chet tashrifini ko'rish."
+    }
+  },
+
+  "productCard": {
+    "buttonText": {
+      "addToCart": "Savatchaga qo'shish",
+      "removeFromCart": "Savatchadan olib tashlash"
+    },
+    "icons": {
+      "details": "Tafsilotlar",
+      "remove": "Olib tashlash",
+      "wishlist": "Sevimlilar",
+      "favorite": "Sevimlilar"
+    }
+  },
+
+  "detailsPage": {
+    "reviews": "({{votes}} Baholar)",
+    "inStock": "Mavjud",
+    "colors": "Ranglar",
+    "size": "O'lcham",
+    "addToFav": "Sevimlilar qo'shish",
+    "freeDelivery": {
+      "title": "Bepul etkazib berish",
+      "description": "Etkazib berishning mavjudligini tekshirish uchun pochtaviy kodingizni kiriting"
+    },
+    "returnDelivery": {
+      "title": "Qayta etkazib berish",
+      "description": "bepul 30 kun ichida qayta etkazib beriladi. Batafsil"
+    },
+    "relatedItems": "O'xshash mahsulotlar"
+  },
+
+  "common": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "days": "Kunlar",
+    "hours": "Soatlar",
+    "minutes": "Daqiqalar",
+    "seconds": "Sekuntda",
+    "reset": "Qayta sozlash",
+    "welcome": "Xush kelibsiz",
+    "cancel": "Bekor qilish",
+    "resultsNotFound": "Natijalar topilmadi.",
+    "weDontHaveProducts": "Afsuski, bu kategoriyada hech qanday mahsulotimiz yo'q",
+    "backTo": "Orqaga"
+  },
+
+  "history": {
+    "account": "Hisob",
+    "products": "Mahsulotlar",
+    "cart": "Savat",
+    "checkout": "Hisob-kitob",
+    "results": "Natijalar",
+    "404Error": "404 Xato"
+  },
+
+  "footer": {
+    "section1": {
+      "subscribe": "Obuna bo'ling",
+      "getOffer": "Birinchi buyurtmangizda 10% chegirma oling",
+      "enterEmailPlaceholder": "Emailingizni kiriting",
+      "sendLabel": "Yuborish"
+    },
+    "section2": {
+      "support": "Qo'llab-quvvatlash",
+      "address": "Uzbekistan, Angor"
+    },
+    "section3": {
+      "account": "Hisob",
+      "myAccount": "Mening hisobim",
+      "loginRegister": "Kirish / Ro'yxatdan o'tish",
+      "cart": "Savat",
+      "wishlist": "Sevimlilar",
+      "shop": "Do'kon"
+    },
+    "section4": {
+      "quickLink": "Tez havola",
+      "privacyPolicy": "Maxfiylik siyosati",
+      "termsOfUse": "Foydalanish shartlari",
+      "faq": "FAQ",
+      "contact": "Bog'lanish"
+    },
+    "section5": {
+      "downloadApp": "Dasturni yuklab oling",
+      "saveThreeDollars": "Dastur bilan $3 tejang"
+    },
+    "copyRightsText": {
+      "designedBy": "Veb-sayt dizayni",
+      "codedBy": "va kodi"
+    }
+  },
+
+  "sectionsMenu": {
+    "womenFashion": {
+      "title": "Ayollar kiyimilari",
+      "menuItems": {
+        "elegantDress": "Zamonaviy Liboslar",
+        "chicBlouse": "Shik Bluzlar",
+        "statementHandbag": "Bayon qilib keltirilgan sumka",
+        "versatileJacket": "Ko'p xilma-xillik kurtka",
+        "comfortable": "Qulay Kiyimlar"
+      }
+    },
+    "menFashion": {
+      "title": "Erkaklar kiyimlari",
+      "menuItems": {
+        "tailoredSuit": "Konsilgan Kostyumlar",
+        "casualShirts": "Oddiy Ko'ylaklar",
+        "slimFitJeans": "Chiqqanidagi Djinlar",
+        "leatherAccessories": "Teri vositalari",
+        "modernSneakers": "Zamonaviy Ketslar"
+      }
+    },
+    "otherSections": {
+      "electronics": "Elektronika",
+      "homeLifestyle": "Uy & Hayot",
+      "medicine": "Tibbiyat",
+      "sportsOutdoor": "Sport & Tabiat uchun",
+      "babyToys": "Bolalar & O'yinchoqlar",
+      "groceriesPets": "Oziq-ovqat & Hayvonlar ovqatlari",
+      "healthBeauty": "Salomatlik & Go'zallik"
+    }
+  },
+
+  "mobileNav": {
+    "profile": "Profil",
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "myCart": "Mening savatim",
+    "favorite": "Sevimlilar",
+    "wishlist": "Sevimlilar ro'yxati",
+    "notification": "Bildirishnomalar",
+    "signIn": "Kirish",
+    "signOut": "Chiqish",
+    "hey": "Salom"
+  },
+
+  "buttons": {
+    "viewAllProducts": "Barcha mahsulotlarni ko'rish",
+    "buyNow": "Xarid qilish",
+    "viewAll": "Barchasini ko'rish",
+    "sendMessage": "Xabar yuborish",
+    "saveChanges": "O'zgarishlarni saqlash",
+    "moveAllToBag": "Barchasini sumkaga ko'chirish",
+    "seeAll": "Barchasini ko'rish",
+    "returnToShop": "Do'konga qaytish",
+    "updateCart": "Savatni yangilash",
+    "applyCoupon": "Kuponga ega bo'ling",
+    "processToCheckout": "Hisob-kitobga o'tish",
+    "placeOrder": "Buyurtma berish",
+    "backToHome": "Bosh sahifaga qaytish",
+    "createAccount": "Hisob yaratish",
+    "signUpWithGoogle": "Google bilan ro'yxatdan o'ting",
+    "login": "Kirish"
+  },
+
+  "aboutPage": {
+    "heroSection": {
+      "heading": "Bizning tariximiz",
+      "paragraphOne": "2015-yilda ishga tushirilgan, Exclusive Janubiy Osiyoning eng yuqori onlayn savdo bozori, Bangladeshdagi faol mavjudligi bilan. Maxsus tashqiylangan marketing, ma'lumotlar va xizmatlar halqaro bo'ylab qo'llaniladi, Exclusive 10,500 sotuvchilarga va 300 brendga ega va mintaqadagi 3 million mijozga xizmat ko'rsatadi.",
+      "paragraphTwo": "Exclusive 1 million dan ortiq mahsulot taklif etadi, tezroq o'sadi. Exclusive, mijozlar tomonidan yoqtiriladigan turli xil kategoriyalarda assotsiatsiyani taklif etadi.",
+      "imageAlt": "Ikkita yosh qiz xarid bilan mamnun"
+    },
+    "cardInfo": {
+      "aboutCardsInfo1": "Saytimizda faol sotuvchilar",
+      "aboutCardsInfo2": "Oylik Mahsulot Sotib Olish",
+      "aboutCardsInfo3": "Saytimizda faol mijozlar",
+      "aboutCardsInfo4": "Saytimizda yillik brutto sotishlar"
+    },
+    "ourMembersData": {
+      "founderChairman": {
+        "name": "Tom Cruise",
+        "jobTitle": "Bosh sahifaning yaratuvchisi va raisi"
+      },
+      "managingDirector": {
+        "name": "Emma Watson",
+        "jobTitle": "Boshqaruv direktori"
+      },
+      "productDesigner": {
+        "name": "Will Smith",
+        "jobTitle": "Mahsulot dizayneri"
+      }
+    },
+    "featuresSectionData": {
+      "car": {
+        "iconAlt": "Avtomobil",
+        "title": "BEPUL VA TEZ Etkazib berish",
+        "description": "Barcha buyurtmalar uchun bepul etkazib berish $140 dan yuqori"
+      },
+      "headphone": {
+        "iconAlt": "call-center",
+        "title": "24/7 Mijozlarni qo'llab-quvvatlash",
+        "description": "Do'stona 24/7 mijozlarni qo'llab-quvvatlash"
+      },
+      "correctSign": {
+        "iconAlt": "To'g'ri belgi",
+        "title": "PUL QAYTARISH GARANTIYASI",
+        "description": "Biz 30 kun ichida pulni qaytarishimiz mumkin"
+      }
+    }
+  },
+
+  "sectionTitles": {
+    "todaysSection": {
+      "title": "Bugun",
+      "flashSales": "Tez sotilgan mahsulotlar"
+    },
+    "categoriesSection": {
+      "title": "Kategoriyalar",
+      "browseByCategory": "Kategoriyalar"
+    },
+    "thisMonthSection": {
+      "title": "Bu oy",
+      "bestSelling": "Eng ko'p sotilgan mahsulotlar"
+    },
+    "ourProducts": {
+      "title": "Bizning mahsulotlar",
+      "exploreProducts": "Bizning mahsulotlarni tanlang"
+    },
+    "featuredSection": {
+      "title": "Taniqli",
+      "newArrival": "Yangi mahsulotlar"
+    },
+    "forYou": "Siz uchun"
+  },
+
+  "categoriesData": {
+    "phones": "Telefonlar",
+    "gaming": "O'yinlar",
+    "smartwatch": "Smartwatch",
+    "furniture": "Mebel",
+    "clothes": "Kiyimlar",
+    "backpack": "Ruzg‘or",
+    "animal": "Hayvonlar",
+    "camera": "Kamera",
+    "headphones": "Quloqchinlar",
+    "computers": "Kompyuterlar",
+    "makeup": "Oyoq o'lchamlar"
+  },
+
+  "productPoster": {
+    "title": "Kategoriyalar",
+    "subTitle": "Musiqa tajribangizni yaxshilang"
+  },
+
+  "notFoundPage": {
+    "tabTitle": "Sahifa topilmadi",
+    "description": "Siz tashrif buyurgan sahifa topilmadi. Bosh sahifaga o'tishingiz mumkin.",
+    "notBuiltTabTitle": "Sahifa qurilmagan",
+    "notBuiltDescription": "Afsuski, qidirayotgan sahifa hali qurilmagan.",
+    "notFoundMessage": "404 Topilmadi"
+  },
+
+  "featuredSection": {
+    "mediumPoster": {
+      "title": "PlayStation 5",
+      "description": "PS5ning oq va qora versiyalari sotishga chiqmoqda."
+    },
+    "horizontalPoster": {
+      "title": "Ayollar to'plamlari",
+      "description": "Taniqli ayollar to'plami, sizga boshqa his qo'shadi."
+    },
+    "smallPoster1": {
+      "title": "Kolonkalar",
+      "description": "Amazon simsiz kolonkalar"
+    },
+    "smallPoster2": {
+      "title": "Parfyum",
+      "description": "GUCCI INTENSE OUD EDP atirlari"
+    }
+  },
+
+  "tooltips": {
+    "scrollToTop": "Boshiga qaytish",
+    "repoStarsForks": "veb-saytning repozitoriysi",
+    "searchButton": "Qidirish",
+    "remove": "Olib tashlash"
+  },
+
+  "inputsPlaceholders": {
+    "whatYouLookingFor": "Nima qidiryapsiz?",
+    "enterYourEmail": "Emailingizni kiriting",
+    "yourName": "Ismingiz",
+    "yourEmail": "Emailingiz",
+    "yourMessage": "Xabaringiz",
+    "yourPhone": "Telefon raqamingiz",
+    "address": "Misol: Kingston, 5236, Qo'shma Shtatlar",
+    "currentPass": "Hozirgi parolingiz",
+    "confirmPass": "Parolni tasdiqlang",
+    "newPass": "Yangi parol",
+    "couponExample": "Misol: SAVE20",
+    "fullName": "To'liq Ism",
+    "emailOrPhone": "Email yoki Telefon raqami",
+    "password": "Parol"
+  },
+
+  "inputsLabels": {
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "email": "Email",
+    "companyName": "Kompaniya nomi",
+    "streetAddress": "Ko'cha manzili",
+    "apartment": "Kvartira, qavat va h.k. (ixtiyoriy)",
+    "townOrCity": "Shahar",
+    "phoneNumber": "Telefon raqami",
+    "emailAddress": "Email manzili",
+    "saveThisInfo": "Keyingi marta tez to'lov uchun bu ma'lumotlarni saqlang",
+    "passwordChanges": "Parol o'zgartirishlari",
+    "address": "Manzil"
+  },
+
+  "loginSignUpPage": {
+    "createAccount": "Hisob yaratish",
+    "enterDetails": "Pastdagi ma'lumotlaringizni kiriting",
+    "login": "Exclusive ga kirish",
+    "forgotPassword": "Parolni unutdingizmi?",
+    "alreadyHaveAcc": "Afsuski, allaqachon hisobingiz bormi?"
+  },
+
+  "favoritePage": {
+    "title": "Sevimlilar ({{numberOfProducts}})"
+  },
+
+  "connectionLabel": {
+    "restoredInternet": "Ulanish tiklandi",
+    "noInternetAvailable": "Internet ulanishi mavjud emas."
+  },
+
+  "contactPage": {
+    "contactInfoCard": {
+      "phoneSection": {
+        "title": "Bizga qo'ng'iroq qiling",
+        "weAreAvailable": "Biz haftaning 7 kuniga, 24/7 mavjudmiz.",
+        "phoneNumber": "Telefon"
+      },
+      "emailSection": {
+        "title": "Bizga xat yozing",
+        "fillOut": "Formamizni to'ldiring va biz siz bilan 24 soat ichida bog'lanamiz.",
+        "email": "Elektron pochta"
+      }
+    }
+  },
+
+  "accountPage": {
+    "editProfile": "Profilni tahrirlash",
+    "accountMenuSection": {
+      "manageMyAccount": "Mening hisobimni boshqarish",
+      "myOrders": "Mening buyurtmalarim",
+      "profile": "Mening profilim",
+      "addressBook": "Manzillar kitobi",
+      "paymentOptions": "To'lov usullarim",
+      "returns": "Qaytarishlarim",
+      "cancellations": "Bekor qilishlarim"
+    }
+  },
+
+  "cartPage": {
+    "productsTable": {
+      "product": "Mahsulot",
+      "price": "Narxi",
+      "quantity": "Miqdori",
+      "subtotal": "Jami summa"
+    },
+    "cartInfoMenu": {
+      "cartTotal": "Savatcha umumiy",
+      "subTotal": "Jami summa",
+      "shipping": "Yetkazib berish",
+      "free": "Bepul",
+      "total": "Umumiy",
+      "processToCheckout": "To'lov jarayoniga o'tish"
+    }
+  },
+
+  "wishlist": "Sevimlilar ({{numberOfWishlist}})",
+  "cashOnDelivery": "Naqd to'lov",
+  "bank": "Bank",
+  "billingDetails": "Hisob-kitob ma'lumotlari"
+}
